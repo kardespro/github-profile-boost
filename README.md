@@ -52,7 +52,7 @@ $ npm start
 
 ## Download
 
-You can [download](https://github.com/kardespro/github-profile-boost) the latest installable version of Markdownify for Windows, macOS and Linux.
+You can [download](https://github.com/kardespro/github-profile-boost) the latest installable version of github-profile-boost for Windows, macOS and Linux.
 
 ## Emailware
 
